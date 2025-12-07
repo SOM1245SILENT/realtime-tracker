@@ -3,9 +3,8 @@
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
-  "start": "node app.js"
-},
-
+    "start": "node app.js"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -13,6 +12,7 @@
   "dependencies": {
     "ejs": "^3.1.10",
     "express": "^5.2.1",
+    "mongoose": "^9.0.1",
     "socket.io": "^4.8.1"
   }
 }
